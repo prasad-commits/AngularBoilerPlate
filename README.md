@@ -1,2 +1,2 @@
 # AngularBoilerPlate
-Creating Angular Boiler Plate with Basic Building Blocks
+Angular Boiler Plate with Basic Building Blocks
